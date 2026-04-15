@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_dark">#121212</color>
+    <color name="gray_dark">#B0B0B0</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="message_bg_dark">#2C2C2C</color>
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#0D3817</color>
+    <color name="success">#4CAF50</color>
+    <color name="error">#CF6679</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="light_gray">#333333</color>
+    <color name="text_primary">#FFFFFF</color>
+</resources>

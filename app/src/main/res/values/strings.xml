@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sewa SMS</string>
+    <string name="new_message">Nouveau message</string>
+    <string name="enter_phone">Entrez le numéro</string>
+    <string name="send">Envoyer</string>
+    <string name="record_audio">Enregistrer audio</string>
+    <string name="audio_recorded">Audio enregistré</string>
+    <string name="sending">Envoi...</string>
+    <string name="sent">Envoyé ✓</string>
+    <string name="compressing">Compression...</string>
+    <string name="audio_received">Audio reçu</string>
+</resources>
